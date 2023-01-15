@@ -1,0 +1,115 @@
+.sob{
+
+    text-align: center;
+}
+.button{
+    background-color: orangered;
+}
+.hi{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr)
+
+}
+.bye{
+    margin: 20px;
+}
+.wow{
+    background-color: orange;
+}
+.ho{
+    display: flex;
+border: 20px;
+}
+.noo{
+    border: solid coral;
+}
+.pading{
+border: 20px;
+}
+
+.home{
+    display: flex;
+    justify-content:flex-end;
+    gap: 10px;
+}
+.ak{
+    border: solid wheat;
+}
+.dwy{
+    border: solid wheat;
+}
+.tin{
+    border: solid wheat;
+}
+.cayr{
+    border: solid wheat;
+}
+
+.say{
+    display: flex;
+
+}
+.sim{
+    text-align: left;
+}
+.icon{
+    
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    text-align: center;
+
+
+}
+.em{
+    border: solid cyan;
+}
+.ni{
+    border: solid cyan;
+
+}
+.ji{
+    border: solid cyan;
+
+}
+.ri{
+    border: solid cyan;
+
+}
+.lol{
+    justify-content: space-evenly;
+}
+.back{
+    background-color: bisque;
+}
+.big{
+justify-content: center;
+
+}
+.red{
+    background-color: yellow;
+}
+.list{
+    background-color: bisque;
+    border: 40px;
+    text-align: center;
+}
+.yes{
+    justify-content: space-evenly;
+}
+.icon:hover{
+
+    border: chartreuse;
+}
+.em:hover{
+    border: crimson;
+}
+.ni:hover{
+border-radius: 70px;
+}
+.ji:hover{
+    border: cornflowerblue;
+}
+.ri:hover{
+    border-radius: 70px;
+}
